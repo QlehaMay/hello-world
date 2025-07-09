@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture note
+permalink: /docs/softwareEng2025
+---
+
 ## ソフトウェア工学の内容(第1回～第6回)まとめ
 
 ### ソフトウェア工学第1回 ガイダンス
